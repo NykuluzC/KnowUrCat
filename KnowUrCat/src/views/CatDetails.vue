@@ -3,7 +3,7 @@
     <div>
         <pre>{{ cat }}</pre>
         <h1 class="text-5xl font-bold mb-5">{{ cat.name }}</h1>
-        <img :src="cat[0].image_link" :alt="name" class="rounded-t-xl h-29 img-responsive  image-resize w-full object-cover cl">
+        <img :src="cat[0].image_link" :alt="name" class="rounded-t-xl h-29 img-responsive  image-resize  object-cover cl">
     </div>
 
 </template>

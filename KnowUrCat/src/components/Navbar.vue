@@ -1,5 +1,5 @@
 <template>
-  <header class="bg-orange-200 shadow h-16 flex justify-between vw = 100%">
+  <header class="bg-orange-200 shadow h-16 flex justify-between vw = 100% ">
     <router-link
       :to="{ name: 'home' }"
       class="inline-flex items-center h-full px-10"
@@ -34,4 +34,17 @@
     </div>
   </header>
 </template>
+
+
+<style>
+
+header {
+  position: relative;
+  width: 100%;
+  height: 70px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+</style>
 
