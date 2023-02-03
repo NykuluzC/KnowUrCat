@@ -27,7 +27,7 @@
             <p class="px-4 ">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Temporibus consectetur facilis ut rem eum labore fugit tempora vel minima quam id numquam delectus asperiores molestias architecto corporis sed, eligendi maxime!</p>
             
             <div class="px-0 py-5 rounded">
-                <router-link to="/" class="ChooseMe rounded-md">More about our family button 😼
+                <router-link to="/" class="ChooseMe rounded-md">click me and i'll let you pet me 😼
                 </router-link>
             </div>
             </div>

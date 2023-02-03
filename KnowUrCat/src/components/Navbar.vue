@@ -1,10 +1,11 @@
 <template>
   <header class="bg-orange-200 shadow h-16 flex justify-between vw = 100% ">
+    <div class="logo"><a href="../designs/BG.jpg"><img src ="../designs/BG.jpg"></a></div>
     <router-link
       :to="{ name: 'home' }"
-      class="inline-flex items-center h-full px-10"
+      class="inline-flex items-center  px-10"
     >
-      Home
+      URCAT.COM
     </router-link>
     <div class="items-center gap-1">
       <router-link
@@ -31,12 +32,16 @@
       >
         Cat Breeds by Country Origin
       </router-link>
+
+
     </div>
   </header>
 </template>
 
 
 <style>
+
+
 
 header {
   position: relative;
