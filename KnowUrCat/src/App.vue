@@ -1,15 +1,18 @@
 <script setup>
-   
+
 
 </script>
 
 
 
 <template>
-    <router-view />
+    <router-view class="bg-green" />
 
 </template>
 
 
 <style scoped>
+
+
+
 </style>
