@@ -1,3 +1,3 @@
 export default {
-    breeds: ['Asian','Lapdog']
+    searchedCats: []
 }
